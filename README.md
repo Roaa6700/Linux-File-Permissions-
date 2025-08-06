@@ -75,4 +75,8 @@ Note: Make sure example.txt exists in the same directory as your script.
 [ Combine to form final permission string ]
 ```
 
+![f](First.jpg)
+
+
+
 ---
