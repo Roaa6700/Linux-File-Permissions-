@@ -75,8 +75,14 @@ Note: Make sure example.txt exists in the same directory as your script.
 [ Combine to form final permission string ]
 ```
 
-![f](First.jpg)
-
-
+![f](First.png)
+![s](Second.png)
 
 ---
+## Sample Output
+When running the Python script in the terminal, the output should look like :
+```bash
+Permissions before: 644
+Permissions after: 775
+
+```
